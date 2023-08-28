@@ -4,7 +4,7 @@ This repository contains SQL queries for analyzing COVID-19 data using PostgreSQ
 
 ## Introduction
 
-This project aims to analyze COVID-19 data using SQL queries with PostgreSQL, as well as visualize the results through Tableau. The provided SQL queries can be used to extract valuable insights from COVID-19 datasets related to cases, deaths, vaccinations, and more.
+This project aims to analyze COVID-19 data using SQL queries with PostgreSQL, as well as visualize the results through Tableau. The provided SQL queries through the file `CovidProjectquery.sql` can be used to extract valuable insights from COVID-19 datasets related to cases, deaths, vaccinations, and more.
 
 ## Database Schema
 
@@ -24,9 +24,9 @@ The Tableau visualization complements the SQL analysis by providing interactive 
 
 1. Make sure you have PostgreSQL, Pgadmin4, and Tableau Desktop installed.
 2. Create a database and load the COVID-19 data into the `CovidDeaths` and `CovidVaccinations` tables.
-3. Copy and execute the SQL queries provided in this repository using Pgadmin4 or any PostgreSQL client.
-4. Open the Tableau file and connect it to the PostgreSQL database.
-5. Explore the interactive visualizations in Tableau to gain insights from the COVID-19 data.
+3. Open and execute the SQL queries provided in this repository using Pgadmin4 or any PostgreSQL client.
+4. Explore the interactive visualizations in Tableau to gain insights from the COVID-19 data.
+Here is the link to the Tableau visualization: https://public.tableau.com/views/COVID-19Impact_16931977025800/COVID-19ImpactDashboard?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ## Contributing
 
