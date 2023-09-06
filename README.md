@@ -22,7 +22,7 @@ The Tableau visualization complements the SQL analysis by providing interactive 
 
 ## Usage
 
-1. Make sure you have PostgreSQL, Pgadmin4, and Tableau Desktop installed.
+1. Make sure you have PostgreSQL and pgAdmin4 installed
 2. Create a database and load the COVID-19 data into the `CovidDeaths` and `CovidVaccinations` tables.
 3. Open and execute the SQL queries provided in this repository using Pgadmin4 or any PostgreSQL client.
 4. Explore the interactive visualizations in Tableau to gain insights from the COVID-19 data.
